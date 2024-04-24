@@ -15,10 +15,6 @@ To use this app in your local machin, follow these steps:
 
 ![Note-Taker](./images/Pic.png)
 
-## Deploy
-
-The link is: https://note-taker-pcm8.onrender.com/
-
 
 ## Dependencies
 This module relies on the following dependencies:
