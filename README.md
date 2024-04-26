@@ -27,8 +27,11 @@ Vide Link: https://note-taker-pcm8.onrender.com
 This module relies on the following dependencies:
 
 1- util
+
 2- fs
+
 3- uuid
+
 4- express
 
 ## Contributing
